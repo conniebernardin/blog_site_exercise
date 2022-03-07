@@ -20,3 +20,8 @@ h3{
     margin: auto;
     text-align: center;
 }
+
+.dark-mode {
+    background-color: #091d1e;
+    color: #aaaaaa;
+}
